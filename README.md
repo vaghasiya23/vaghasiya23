@@ -8,5 +8,5 @@ I have been coding since a year and is specialized in Python, Machine Learning a
 🧠 I'm learning Web Technologies and Deep Learning Models.
 🧩 I love solving puzzles.
 🔭 I'm currently Exploring Deep Learning models.
-
+ 
 Pronouns: He/Him
