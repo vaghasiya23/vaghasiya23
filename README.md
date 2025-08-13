@@ -6,7 +6,9 @@ I have been coding for a year and am specialising in Python, Machine Learning an
 🇮🇳 I'm based in Surat/ Bhopal.
 
 ✉️ You can contact me at vaghasiya23@iiserb.ac.in
+
 🧠 Carving Deep Learning Models with Computer Vision and NLP.
+
 🧩 I love solving puzzles.
 
 Portfolio Website: https://om-vaghasiya.netlify.app/
