@@ -15,5 +15,3 @@ I have spent the past year immersed in AI/ML, constantly exploring and expanding
 
 ### Let's Connect!
 Feel free to reach out via email at [vaghasiya23@iiserb.ac.in](mailto:vaghasiya23@iiserb.ac.in).
-
-Explore my work and projects on my [Portfolio Website](https://om-vaghasiya.netlify.app/).
