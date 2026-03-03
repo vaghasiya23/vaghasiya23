@@ -11,7 +11,7 @@ I have spent the past year immersed in AI/ML, constantly exploring and expanding
 
 ### Fun Facts:
 - 🧩 I love solving puzzles—it's a great way to sharpen my problem-solving skills!
-- 🇮🇳 Based in Surat/Bhopal, I am always eager to connect and collaborate with like-minded individuals in the AI community.
+- 🇮🇳 Based in Surat/Bhopal, I am always eager to connect and collaborate with like or better-minded individuals in the AI community.
 
 ### Let's Connect!
 Feel free to reach out via email at [vaghasiya23@iiserb.ac.in](mailto:vaghasiya23@iiserb.ac.in) or LinkedIn: [OmVaghasiya](https://www.linkedin.com/in/omvaghasiya)
