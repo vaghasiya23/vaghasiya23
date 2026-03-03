@@ -1,14 +1,19 @@
-Hi there 👋
-I am Om Vaghasiya
+# Hi there! 👋
 
-I have been coding for a year and am specialising in Python, Machine Learning and Deep Learning with some exposure of CV and NLP. I am an UG student at IISER Bhopal.
+I'm **Om Vaghasiya**, an enthusiastic AI/ML developer with a passion for innovation and problem-solving. Currently, I'm honing my skills in Python, Machine Learning, and Deep Learning, with a keen interest in Computer Vision (CV) and Natural Language Processing (NLP). 
 
-🇮🇳 I'm based in Surat/ Bhopal.
+I have spent the past year immersed in AI/ML, constantly exploring and expanding my knowledge to stay at the forefront of technological advancements. As an undergraduate student at **IISER Bhopal**, I am dedicated to applying my theoretical knowledge to practical projects that can create real-world impact.
 
-✉️ You can contact me at vaghasiya23@iiserb.ac.in
+### What I Do:
+- 🧠 **Deep Learning Models:** I specialise in creating intricate models for tasks ranging from image recognition to language generation.
+- 📊 **Machine Learning:** From data preprocessing to model evaluation, I have hands-on experience with various algorithms and techniques.
+- 🎨 **Computer Vision & NLP:** I enjoy tackling challenges that involve understanding images and human language, making sense of complex data.
 
-🧠 Carving Deep Learning Models with Computer Vision and NLP.
+### Fun Facts:
+- 🧩 I love solving puzzles—it's a great way to sharpen my problem-solving skills!
+- 🇮🇳 Based in Surat/Bhopal, I am always eager to connect and collaborate with like-minded individuals in the AI community.
 
-🧩 I love solving puzzles.
+### Let's Connect!
+Feel free to reach out via email at [vaghasiya23@iiserb.ac.in](mailto:vaghasiya23@iiserb.ac.in).
 
-Portfolio Website: https://om-vaghasiya.netlify.app/
+Explore my work and projects on my [Portfolio Website](https://om-vaghasiya.netlify.app/).
