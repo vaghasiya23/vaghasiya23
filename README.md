@@ -14,4 +14,4 @@ I have spent the past year immersed in AI/ML, constantly exploring and expanding
 - 🇮🇳 Based in Surat/Bhopal, I am always eager to connect and collaborate with like-minded individuals in the AI community.
 
 ### Let's Connect!
-Feel free to reach out via email at [vaghasiya23@iiserb.ac.in](mailto:vaghasiya23@iiserb.ac.in) or LinkedIn: [OmVaghasiya](linkto:https://www.linkedin.com/in/omvaghasiya)
+Feel free to reach out via email at [vaghasiya23@iiserb.ac.in](mailto:vaghasiya23@iiserb.ac.in) or LinkedIn: [OmVaghasiya](https://www.linkedin.com/in/omvaghasiya)
