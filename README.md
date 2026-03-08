@@ -69,22 +69,6 @@ I enjoy working on challenging problems involving **robust machine learning, sem
 
 ---
 
-# 📈 GitHub Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=vaghasiya23&theme=react-dark)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vaghasiya23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=vaghasiya23&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaghasiya23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=vaghasiya23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
