@@ -15,3 +15,7 @@ I have spent the past year immersed in AI/ML, constantly exploring and expanding
 
 ### Let's Connect!
 Feel free to reach out via email at [vaghasiya23@iiserb.ac.in](mailto:vaghasiya23@iiserb.ac.in) or LinkedIn: [OmVaghasiya](https://www.linkedin.com/in/omvaghasiya)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vaghasiya23&theme=react-dark)
